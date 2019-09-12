@@ -1,7 +1,7 @@
 dependencies:
 - name: daily-report-backend
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.14
+  version: 0.0.18
 - name: daily-report-frontend
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.13
